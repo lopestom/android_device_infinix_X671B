@@ -1,26 +1,19 @@
 # TWRP device tree for Infinix Note 12 Pro 5G
-## Firmware version: 
-
+## Firmware version: Infinix_Note_12_Pro_5G_X671B_MT6833_V970_221220
+X671B-H331EF-S-GL-221220V856 - x671b_h331
 ---------------
 -  MT6833 - A12
   - Status: booted??
-  - [?] booted
-  - [?] Not booted
+    - [?] booted
+    - [?] Not booted
   
-   - boot-IN12Pro5G-A12-2023MMDD-hhhh.img => Working?? Not working?
+- boot-IN12Pro5G-A12-2023MMDD-hhhh.img => Working?? Not working?
    - [?] Working
    - [?] Not Working
 ------------------------------------
+Component Type | Details
 
 Specs: https://www.gsmarena.com/infinix_note_12_pro_5g-11663.php
-
-Component Type | Details
--------:|:-------------------------
-Shipped PLATFORM OS	 |  Android 11
-Chipset	     |  Mediatek MT6785 Helio G95 (12nm)
-CPU	         |  Octa-core (Cortex-A76 2x2.05 GHz + Cortex-A55 6x2.0 GHz)
-GPU	         |  ARM Mali-G76 MC4
-RAM / ROM	         |  8GB / 256GB
 
 ![Infinix Note 12 Pro 5G](https://cdn-files.kimovil.com/default/0007/53/thumb_652910_default_big.jpg)
 ===================================================================== 
@@ -34,7 +27,7 @@ RAM / ROM	         |  8GB / 256GB
 </details>
 
 ## Big thanks to:
-- [vano1678](https://4pda.to/forum/index.php?showuser=4898939) for tests.
+- [vano1678 from 4pda](https://4pda.to/forum/index.php?showuser=4898939) for tests.
 - [TeamWin](https://github.com/TeamWin) for TWRP SC.
 * TWRP version 3.7.0_12 *
 
