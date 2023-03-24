@@ -22,6 +22,7 @@ ro.boot.avb_version=1.1
 ro.boot.vbmeta.avb_version=1.1
 # end common build properties
 init.userspace_reboot.is_supported=true
+persist.sys.fuse.passthrough.enable=true
 persist.adb.nonblocking_ffs=0
 external_storage.projid.enabled=1
 external_storage.casefold.enabled=1
