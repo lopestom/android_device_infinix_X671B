@@ -172,7 +172,7 @@ TW_RECOVERY_ADDITIONAL_RELINK_LIBRARY_FILES += \
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 #TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery.fstab
-TARGET_RECOVERY_INITRC := $(DEVICE_PATH)/recovery/root/init.recovery.mt6873.rc
+TARGET_RECOVERY_INITRC := $(DEVICE_PATH)/recovery/root/init.recovery.mt6833.rc
 
 # Charger
 BOARD_CHARGER_ENABLE_SUSPEND := true
