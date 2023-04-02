@@ -4,12 +4,12 @@ X671B-H331EF-S-GL-221220V856 - x671b_h331
 ---------------
 -  MT6833 - A12
   - Status: booted??
-    - [?] booted
-    - [?] Not booted
+    - [X] booted
+    - [] Not booted
   
 - boot-IN12Pro5G-A12-2023MMDD-hhhh.img => Working?? Not working?
-   - [?] Working
-   - [?] Not Working
+   - [X] Working
+   - [] Not Working
 ------------------------------------
 Component Type | Details
 
